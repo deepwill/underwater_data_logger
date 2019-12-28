@@ -1,6 +1,7 @@
 # UW logger
 This project is an underwater logger that can be build at a very low cost (<20€ per unit) with widely available materials and resources. In many of our projects with schools we focus on the marine environment. We believe that to monitor certain parameters of surface waters can be very beneficial to learn and understand about this captivating setting
 
+for more information go to: https://deepwill.org/underwater-logger/
 
 ## Features
 -the logger is based on the Atmega8 microcontroller
