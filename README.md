@@ -1,8 +1,8 @@
-## UW logger
+# UW logger
 This project is an underwater logger that can be build at a very low cost (<20â‚¬ per unit) with widely available materials and resources. In many of our projects with schools we focus on the marine environment. We believe that to monitor certain parameters of surface waters can be very beneficial to learn and understand about this captivating setting
 
 
-# Features
+## Features
 -the logger is based on the Atmega8 microcontroller
 -powered with 4 AAA batteries
 -the here presented design accommodates for temperature and light-intensity measurements
@@ -13,7 +13,7 @@ This project is an underwater logger that can be build at a very low cost (<20â‚
 
 
 
-# Calculation for converting ADC value to Temperature Unit 
+## Calculation for converting ADC value to Temperature Unit 
 
 Example calculation: 
 
