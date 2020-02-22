@@ -8,7 +8,6 @@
 #include <avr/io.h>
 #include <string.h>
 #include <stdio.h>
-#include "SD_routines.h"
 #include "uart.h"
 #include <util/delay.h>
 #include "I2C_routines.h"
